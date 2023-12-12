@@ -79,8 +79,8 @@ Answer:String
  
 Use the Python interpreter to input a small Python program that prints your name and address on the screen. Once this works type the program in the answer box below.
 Answer:
-print("My name is Prashiddha Joshi")
-print("I live in Bajrabarahi,Godawari,Lalitpur")
+print("My name is Sampurna Simkhada")
+print("I live in Jorpati,Kathmandu")
  
 Within the answer box below write a small Python program, that when run, would print the following message including the double quotes -
 Hello, is your name "Bwian"?
