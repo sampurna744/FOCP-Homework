@@ -44,16 +44,16 @@ print("ABC" * 10)
 #ABCABCABCABCABCABCABCABCABCABC
 
 #7
-name = "Prashiddha Joshi"
-address = "Bajrabarahi,Godawari,Lalitpur"
+name = "Sampurna Simkhada"
+address = "Kathmandu,nepal"
 contact = "091234"
 
 print("Name:", name)
 print("Address:", address)
 print("Contact:", contact)
 print("Length:", len(name))
-# Name: Prashiddha Joshi
-# Address: Bajrabarahi,Godawari,Lalitpur
+# Name: Sampurna Simkhada
+# Address: Kathmandu,nepal
 # Contact: 091234
 # Length: 16
 
