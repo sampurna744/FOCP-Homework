@@ -28,7 +28,7 @@ import sys
 # the key=len argument is telling sorted() to sort the elements based on their length.
 arguements_sorted = sorted(sys.argv[1:], key=len)
 print("Shortest argument:", arguements_sorted[0])
-# python Prashiddha_Joshi_P5.py 12 33 41 22
+# python Sampurna_Simkhada_P5.py 12 33 41 22
 # Shortest argument: 12
 
 #5
