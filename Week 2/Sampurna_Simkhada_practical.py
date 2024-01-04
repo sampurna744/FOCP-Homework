@@ -55,7 +55,7 @@ print("Length:", len(name))
 # Name: Sampurna Simkhada
 # Address: Kathmandu,nepal
 # Contact: 091234
-# Length: 16
+# Length: 17
 
 #8
 age = input("Enter your age ")
@@ -72,7 +72,7 @@ print(f"The product of {num1} and {num2} is: {product}")
 # The product of 12 and 3 is: 36
 
 #10
-comment = "I would have "thought" you knew better!"
+comment = "I would have 'thought' you knew better!"
 #Syntax error will be shown if you use "" as string delimiter since it has already been used inside with thought.
 
 #11
